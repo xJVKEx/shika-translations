@@ -1,0 +1,127 @@
+// This file contains all unused translations from Minty-GI instead of keeping them in the main file to optimize file size, 
+// and to make it less painful to work with by reducing the amount of lines (because it is already a nightmare to work with),
+// so please ignore this file, and do not commit any changes to it, otherwise they will be rejected.
+
+{
+  "EN": {
+    "BROWSER_TITLE": "Browser",
+    "BROWSER_DESCRIPTION": "Create in-game Browser.",
+    "URL_TITLE": "URL",
+    "URL_DESCRIPTION": "Browser URL.",
+    "PLANE_WIDTH_TITLE": "Plane width",
+    "PLANE_WIDTH_DESCRIPTION": "Change the plane width.",
+    "PLANE_HEIGHT_TITLE": "Plane height",
+    "PLANE_HEIGHT_DESCRIPTION": "Change the plane height.",
+    "RESOLUTION_WIDTH_TITLE": "Resolution width",
+    "RESOLUTION_WIDTH_DESCRIPTION": "Change the browser resolution width.",
+    "RESOLUTION_HEIGHT_TITLE": "Resolution height",
+    "RESOLUTION_HEIGHT_DESCRIPTION": "Change the browser resolution height.",
+
+    "GRAPHICS_OUTLINE_WIDTH_DESCRIPTION": "Changes player outline width.",
+    "GAMMA_DESCRIPTION": "Changes game brightness/gamma.",
+    "DRS_DESCRIPTION": "Changes game render scaling.\nChanging this value quickly or setting high values may cause video memory leak and crash your game, so be careful when changing it.",
+
+    "MODULE_TELEPORT": "Teleport",
+
+    "MAP_TELEPORT_TITLE": "Map Teleport",
+
+    "FOV_DESCRIPTION": "Set a field of view value.",
+
+    "SKIN_MODIFIER_TITLE": "Skin Modifier",
+    "SKIN_MODIFIER_DESCRIPTION": "Skin Modifier",
+    "SKINS_TITLE": "Skins",
+    "SELECT_TITLE": "Select",
+
+    "MUSIC_EVENT_TITLE": "Music Event",
+    "MUSIC_EVENT_DESCRIPTION": "It is intended only for a music event.",
+    "MUSIC_EVENT_NO_MISS_TITLE": "No Miss",
+    "MUSIC_EVENT_HIT_TITLE": "Hit",
+    "MUSIC_EVENT_COMBO_TITLE": "Combo",
+    "MUSIC_EVENT_MAX_COMBO_TITLE": "Max Combo",
+    "MUSIC_EVENT_SCORE_TITLE": "Score",
+    "MUSIC_EVENT_PERFECT_TITLE": "Perfect",
+    "MUSIC_EVENT_GREAT_TITLE": "Great",
+    "MUSIC_EVENT_MISS_TITLE": "Miss"
+  },
+  "RU": {
+    "BROWSER_TITLE": "Браузер",
+    "BROWSER_DESCRIPTION": "Создать внутриигровой браузер.",
+    "URL_TITLE": "URL",
+    "URL_DESCRIPTION": "URL браузера.",
+    "PLANE_WIDTH_TITLE": "Ширина плоскости",
+    "PLANE_WIDTH_DESCRIPTION": "Изменение ширины плоскости.",
+    "PLANE_HEIGHT_TITLE": "Высота плоскости",
+    "PLANE_HEIGHT_DESCRIPTION": "Изменить высоту плоскости.",
+    "RESOLUTION_WIDTH_TITLE": "Ширина разрешения",
+    "RESOLUTION_WIDTH_DESCRIPTION": "Измените ширину разрешения браузера.",
+    "RESOLUTION_HEIGHT_TITLE": "Высота разрешения",
+    "RESOLUTION_HEIGHT_DESCRIPTION": "Измените высоту разрешения браузера.",
+
+    "FOV_DESCRIPTION": "Установите значение поля зрения.",
+
+    "MUSIC_EVENT_TITLE": "Music Event",
+    "MUSIC_EVENT_DESCRIPTION": "It is intended only for a music event.",
+    "MUSIC_EVENT_NO_MISS_TITLE": "No Miss",
+    "MUSIC_EVENT_HIT_TITLE": "Hit",
+    "MUSIC_EVENT_COMBO_TITLE": "Combo",
+    "MUSIC_EVENT_MAX_COMBO_TITLE": "Max Combo",
+    "MUSIC_EVENT_SCORE_TITLE": "Score",
+    "MUSIC_EVENT_PERFECT_TITLE": "Perfect",
+    "MUSIC_EVENT_GREAT_TITLE": "Great",
+    "MUSIC_EVENT_MISS_TITLE": "Miss"
+  },
+  "CN": {
+    "BROWSER_TITLE": "浏览器",
+    "BROWSER_DESCRIPTION": "在游戏内添加浏览器.",
+    "URL_TITLE": "网址",
+    "URL_DESCRIPTION": "浏览器链接.",
+    "PLANE_WIDTH_TITLE": "平面宽度",
+    "PLANE_WIDTH_DESCRIPTION": "更改平面宽度.",
+    "PLANE_HEIGHT_TITLE": "平面高度",
+    "PLANE_HEIGHT_DESCRIPTION": "更改平面高度.",
+    "RESOLUTION_WIDTH_TITLE": "分辨率宽度",
+    "RESOLUTION_WIDTH_DESCRIPTION": "更改分辨率宽度.",
+    "RESOLUTION_HEIGHT_TITLE": "分辨率高度",
+    "RESOLUTION_HEIGHT_DESCRIPTION": "更改分辨率高度.",
+
+    "FOV_DESCRIPTION": "设置视野值.",
+
+    "MUSIC_EVENT_TITLE": "音乐活动",
+    "MUSIC_EVENT_DESCRIPTION": "它仅适用于音乐活动.",
+    "MUSIC_EVENT_NO_MISS_TITLE": "无节拍",
+    "MUSIC_EVENT_HIT_TITLE": "点击",
+    "MUSIC_EVENT_COMBO_TITLE": "组合",
+    "MUSIC_EVENT_MAX_COMBO_TITLE": "最大组合",
+    "MUSIC_EVENT_SCORE_TITLE": "得分",
+    "MUSIC_EVENT_PERFECT_TITLE": "完美",
+    "MUSIC_EVENT_GREAT_TITLE": "非常好",
+    "MUSIC_EVENT_MISS_TITLE": "节拍"
+  },
+  "JP": {
+    "BROWSER_TITLE": "ブラウザ",
+    "BROWSER_DESCRIPTION": "ゲーム内ブラウザを作成する",
+    "URL_TITLE": "URL",
+    "URL_DESCRIPTION": "ブラウザのURL",
+    "PLANE_WIDTH_TITLE": "面の幅",
+    "PLANE_WIDTH_DESCRIPTION": "面の幅を変更する",
+    "PLANE_HEIGHT_TITLE": "面の高さ",
+    "PLANE_HEIGHT_DESCRIPTION": "面の高さを変更する",
+    "RESOLUTION_WIDTH_TITLE": "解像度の幅",
+    "RESOLUTION_WIDTH_DESCRIPTION": "ブラウザの解像度の幅を変更する",
+    "RESOLUTION_HEIGHT_TITLE": "解像度の高さ",
+    "RESOLUTION_HEIGHT_DESCRIPTION": "ブラウザの解像度の高さを変更する",
+
+    "FOV_DESCRIPTION": "視野角の値を設定する",
+
+    "MUSIC_EVENT_TITLE": "Music Event",
+    "MUSIC_EVENT_DESCRIPTION": "It is intended only for a music event.",
+    "MUSIC_EVENT_NO_MISS_TITLE": "No Miss",
+    "MUSIC_EVENT_HIT_TITLE": "Hit",
+    "MUSIC_EVENT_COMBO_TITLE": "Combo",
+    "MUSIC_EVENT_MAX_COMBO_TITLE": "Max Combo",
+    "MUSIC_EVENT_SCORE_TITLE": "Score",
+    "MUSIC_EVENT_PERFECT_TITLE": "Perfect",
+    "MUSIC_EVENT_GREAT_TITLE": "Great",
+    "MUSIC_EVENT_MISS_TITLE": "Miss"
+  }
+}
