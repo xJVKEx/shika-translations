@@ -509,8 +509,8 @@
     "INSTANT_BOW_CHARGE_DESCRIPTION": "Отключает перезарядку лука.\nИзвестны проблемы с Фишль.",
     "NO_SPRINT_COOLDOWN_TITLE": "Отключить откат рывков",
     "NO_SPRINT_COOLDOWN_DESCRIPTION": "Убирает заддержку между рывками.",
-    "NO_VEHICLE_SKILL_COOLDOWN_TITLE": "No Vehicle Skill Cooldown",
-    "NO_VEHICLE_SKILL_COOLDOWN_DESCRIPTION": "Disable cooldown of vehicle skill.",
+    "NO_VEHICLE_SKILL_COOLDOWN_TITLE": "Отключить перезарядку скиллов",
+    "NO_VEHICLE_SKILL_COOLDOWN_DESCRIPTION": "Отключает перезарядку элементальных навыков.",
 
     "PLAYER_SPEED_TITLE": "Скорость игрока",
     "PLAYER_SPEED_DESCRIPTION": "Включает скорость игрока.",
@@ -637,8 +637,8 @@
     "NO_MAP_FOG_TITLE": "Отключить туман карты",
     "NO_MAP_FOG_DESCRIPTION": "Убирает туман на карте.",
 
-    "PAIMON_FOLLOW_TITLE": "Paimon Follow",
-    "PAIMON_FOLLOW_DESCRIPTION": "To display paimon, turn on the function, open the profile (esc) and close it.\nIf the paimon disappeared after teleportation, do not disable the function, open and close the profile.",
+    "PAIMON_FOLLOW_TITLE": "Отключить Паймон",
+    "PAIMON_FOLLOW_DESCRIPTION": "Чтобы показать Паймон, включите функцию, откройте профиль (esc) и закройте его.\nЕсли Паймон исчезла после телепортации, не отключайте функцию, просто откройте и закройте профиль.",
 
     "PROFILE_CHANGER_TITLE": "Кастомный профиль",
     "PROFILE_CHANGER_DESCRIPTION": "Визуально меняет профиль.",
@@ -753,10 +753,10 @@
     "AUTO_TALK_TITLE": "Авто-пропуск диалогов",
     "AUTO_TALK_DESCRIPTION": "Автоматически продолжает диалог.",
     "DIALOG_SPEED_TITLE": "Скорость диалога",
-  "AUTO_SELECT_DIALOG_TITLE": "Автовыбор диалога",
-  "AUTO_SELECT_DIALOG_DESCRIPTION": "Автоматически выбирать варианты диалогов.",
-  "AUTO_SELECT_DIALOG_IMPORTANT_TITLE": "Исключить Катерину/Табби/Вагнера",
-  "AUTO_SELECT_DIALOG_IMPORTANT_DESCRIPTION": "Исключить Катерину/Табби/Вагнера из автовыбора.",
+    "AUTO_SELECT_DIALOG_TITLE": "Автовыбор диалога",
+    "AUTO_SELECT_DIALOG_DESCRIPTION": "Автоматически выбирать варианты диалогов.",
+    "AUTO_SELECT_DIALOG_IMPORTANT_TITLE": "Исключить Катерину/Табби/Вагнера",
+    "AUTO_SELECT_DIALOG_IMPORTANT_DESCRIPTION": "Исключить Катерину/Табби/Вагнера из автовыбора.",
 
     "SKIP_CUTSCENE_TITLE": "Пропуск катсцен",
     "SKIP_CUTSCENE_DESCRIPTION": "Пропускает катсцены.\nМожет сломать некоторые механики игры.",
