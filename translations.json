@@ -130,7 +130,7 @@
     "MAP_TELEPORT_TRANSPORT_DESCRIPTION": "Use system default transport position instead of mark absolute position when teleport to building and transport mark.",
     "MAP_TELEPORT_OVERRIDE_TITLE": "Override Height (m)",
     "MAP_TELEPORT_OVERRIDE_DESCRIPTION": "If teleport cannot get ground height of target location,\nit will teleport you to the height specified here.\nIt is recommended to have this value to be at least as high as a mountain.\nOtherwise, you may fall through the ground.",
-    
+
     "QUEST_TELEPORT_TITLE": "Quest Teleport",
     "QUEST_TELEPORT_DESCRIPTION": "Teleport to QuestPoint.\n(Does not work for some Quest Areas)\nPress the 'V' key to track the Quest, then press the hotkey to teleport.",
 
@@ -329,6 +329,17 @@
     "ELEMENTAL_SIGHT_TITLE": "Permanent Elemental Sight",
     "ELEMENTAL_SIGHT_DESCRIPTION": "Elemental sight is kept on even when moving.\nTo turn off, toggle off and use Elemental Sight again.",
 
+    "FAST_COMBINE_TITLE": "Fast Combine",
+    "FAST_COMBINE_DESCRIPTION": "Allows you to quickly create an item.",
+    "FAST_COMBINE_RESIN_TITLE": "Condensed Resin",
+    "FAST_COMBINE_WAYPOINT_TITLE": "Portable Waypoint",
+    "CUSTOM_COMBINE_TITLE": "Custom Combine",
+    "COMBINE_ITEM_TITLE": "Item",
+    "COMBINE_ID_TITLE": "ID",
+    "LIST_COMBINES_ID_TITLE": "List of Combines id",
+    "COMBINE_COUNT_TITLE": "Count",
+    "COMBINE_TITLE": "Combine",
+
     "ESP_DESCRIPTION": "Shows filtered objects through obstacles.",
     "ESP_OVERLAY_SETTINGS_TITLE": "Overlay Settings",
     "ESP_DRAW_BOX_TITLE": "Draw Box",
@@ -515,7 +526,9 @@
     "COLLIDER_TITLE": "Collider (M)",
 
     "PATH": "Path",
-    "HOTKEY": "Hotkey"
+    "HOTKEY": "Hotkey",
+    "HOTKEY_UNBOUND": "Unbound",
+    "HOTKEY_RESET": "Reset"
   },
   "RU": {
     "MODULE_ABOUT": "Информация",
@@ -637,6 +650,20 @@
     "FADE_DURATION_DESCRIPTION": "Длительность анимации появления окна.",
     "DEVELOPER_MODE_TITLE": "Режим разработчика",
     "DEVELOPER_MODE_DESCRIPTION": "Если вы не разработчик, вам не следует включать этот режим.\nНикто не поможет вам освоить эти функции.\nРежим разблокирует некоторые категории и функции.",
+
+    "MODULE_TELEPORT": "Teleport",
+
+    "MAP_TELEPORT_TITLE": "Map Teleport",
+    "MAP_TELEPORT_DESCRIPTION": "Enable teleport-to-mark functionality.\nUsage:\n1. Open map.\n2. Hold [Teleport Key] and click with the LMB anywhere in the map.\nDone. You have been teleported to selected location.\nTeleport might glitch if teleporting to an extremely high location.\nAdjust Override Height accordingly to help avoid.",
+    "MAP_TELEPORT_KEY_TITLE": "Teleport Key",
+    "MAP_TELEPORT_KEY_DESCRIPTION": "Key to hold down before clicking on target location.",
+    "MAP_TELEPORT_TRANSPORT_TITLE": "Use transport position",
+    "MAP_TELEPORT_TRANSPORT_DESCRIPTION": "Use system default transport position instead of mark absolute position when teleport to building and transport mark.",
+    "MAP_TELEPORT_OVERRIDE_TITLE": "Override Height (m)",
+    "MAP_TELEPORT_OVERRIDE_DESCRIPTION": "If teleport cannot get ground height of target location,\nit will teleport you to the height specified here.\nIt is recommended to have this value to be at least as high as a mountain.\nOtherwise, you may fall through the ground.",
+
+    "QUEST_TELEPORT_TITLE": "Quest Teleport",
+    "QUEST_TELEPORT_DESCRIPTION": "Teleport to QuestPoint.\n(Does not work for some Quest Areas)\nPress the 'V' key to track the Quest, then press the hotkey to teleport.",
 
     "MODULE_VISUALS": "Визуальные",
 
@@ -834,6 +861,17 @@
     "ELEMENTAL_SIGHT_TITLE": "Постоянное чувство стихий",
     "ELEMENTAL_SIGHT_DESCRIPTION": "Чувство стихий остается даже при движении.\nЧтобы отключить, отключите функцию и используйте Чувство стихий снова.",
 
+    "FAST_COMBINE_TITLE": "Fast Combine",
+    "FAST_COMBINE_DESCRIPTION": "Allows you to quickly create an item.",
+    "FAST_COMBINE_RESIN_TITLE": "Condensed Resin",
+    "FAST_COMBINE_WAYPOINT_TITLE": "Portable Waypoint",
+    "CUSTOM_COMBINE_TITLE": "Custom Combine",
+    "COMBINE_ITEM_TITLE": "Item",
+    "COMBINE_ID_TITLE": "ID",
+    "LIST_COMBINES_ID_TITLE": "List of Combines id",
+    "COMBINE_COUNT_TITLE": "Count",
+    "COMBINE_TITLE": "Combine",
+
     "ESP_DESCRIPTION": "Показывает фильтрованные объекты сквозь препятствия.",
     "ESP_OVERLAY_SETTINGS_TITLE": "Настройки оверлея",
     "ESP_DRAW_BOX_TITLE": "Рисовать кубы",
@@ -1019,7 +1057,9 @@
     "DISTANCE_TITLE": "Дистанция",
     "COLLIDER_TITLE": "Коллайдер",
     "PATH": "Путь",
-    "HOTKEY": "Горячая клавиша"
+    "HOTKEY": "Горячая клавиша",
+    "HOTKEY_UNBOUND": "Не назначено",
+    "HOTKEY_RESET": "Сбросить"
   },
   "CN": {
     "MODULE_ABOUT": "关于",
@@ -1152,10 +1192,10 @@
     "MAP_TELEPORT_TRANSPORT_DESCRIPTION": "传送到建筑物和锚点时使用系统默认传送位置而不是指定的绝对位置.",
     "MAP_TELEPORT_OVERRIDE_TITLE": "指定高度(米)",
     "MAP_TELEPORT_OVERRIDE_DESCRIPTION": "如果传送无法获取目标位置的地面高度,\n会将您传送到此处指定的高度.\n建议此值至少与山一样高,\n否则,可能掉落到地下.",
-    
+
     "QUEST_TELEPORT_TITLE": "任务传送",
     "QUEST_TELEPORT_DESCRIPTION": "传送到任务点.\n(一些任务区域无法生效)\n按V键追踪任务,然后再按下快捷键以进行传送.",
-    
+
     "MODULE_VISUALS": "视觉",
 
     "CAMERA_FOV_TITLE": "视野变换器",
@@ -1352,6 +1392,17 @@
     "ELEMENTAL_SIGHT_TITLE": "永久元素视野",
     "ELEMENTAL_SIGHT_DESCRIPTION": "即使在移动时,元素视野也会保持打开状态.\n要关闭,请关闭并再次使用元素视野.",
 
+    "FAST_COMBINE_TITLE": "Fast Combine",
+    "FAST_COMBINE_DESCRIPTION": "Allows you to quickly create an item.",
+    "FAST_COMBINE_RESIN_TITLE": "Condensed Resin",
+    "FAST_COMBINE_WAYPOINT_TITLE": "Portable Waypoint",
+    "CUSTOM_COMBINE_TITLE": "Custom Combine",
+    "COMBINE_ITEM_TITLE": "Item",
+    "COMBINE_ID_TITLE": "ID",
+    "LIST_COMBINES_ID_TITLE": "List of Combines id",
+    "COMBINE_COUNT_TITLE": "Count",
+    "COMBINE_TITLE": "Combine",
+
     "ESP_DESCRIPTION": "显示通过障碍物过滤的对象.",
     "ESP_OVERLAY_SETTINGS_TITLE": "叠加设置",
     "ESP_DRAW_BOX_TITLE": "绘制框",
@@ -1538,7 +1589,9 @@
     "DISTANCE_TITLE": "距离",
     "COLLIDER_TITLE": "对撞机",
     "PATH": "路径",
-    "HOTKEY": "热键"
+    "HOTKEY": "热键",
+    "HOTKEY_UNBOUND": "无界",
+    "HOTKEY_RESET": "重设"
   },
   "JP": {
     "MODULE_ABOUT": "概要",
@@ -1660,6 +1713,20 @@
     "FADE_DURATION_DESCRIPTION": "ウィンドウの表示アニメーションの長さ",
     "DEVELOPER_MODE_TITLE": "開発者モードを有効にする",
     "DEVELOPER_MODE_DESCRIPTION": "開発者ではないならこのモードは有効にするべきではありません\nこの機能を習得するための手助けは誰も行いません\nこのモードは、いくつかの機能を解放することができます",
+
+    "MODULE_TELEPORT": "Teleport",
+
+    "MAP_TELEPORT_TITLE": "Map Teleport",
+    "MAP_TELEPORT_DESCRIPTION": "Enable teleport-to-mark functionality.\nUsage:\n1. Open map.\n2. Hold [Teleport Key] and click with the LMB anywhere in the map.\nDone. You have been teleported to selected location.\nTeleport might glitch if teleporting to an extremely high location.\nAdjust Override Height accordingly to help avoid.",
+    "MAP_TELEPORT_KEY_TITLE": "Teleport Key",
+    "MAP_TELEPORT_KEY_DESCRIPTION": "Key to hold down before clicking on target location.",
+    "MAP_TELEPORT_TRANSPORT_TITLE": "Use transport position",
+    "MAP_TELEPORT_TRANSPORT_DESCRIPTION": "Use system default transport position instead of mark absolute position when teleport to building and transport mark.",
+    "MAP_TELEPORT_OVERRIDE_TITLE": "Override Height (m)",
+    "MAP_TELEPORT_OVERRIDE_DESCRIPTION": "If teleport cannot get ground height of target location,\nit will teleport you to the height specified here.\nIt is recommended to have this value to be at least as high as a mountain.\nOtherwise, you may fall through the ground.",
+
+    "QUEST_TELEPORT_TITLE": "Quest Teleport",
+    "QUEST_TELEPORT_DESCRIPTION": "Teleport to QuestPoint.\n(Does not work for some Quest Areas)\nPress the 'V' key to track the Quest, then press the hotkey to teleport.",
 
     "MODULE_VISUALS": "ビジュアル",
 
@@ -1862,6 +1929,17 @@
     "ELEMENTAL_SIGHT_TITLE": "常時元素視覚",
     "ELEMENTAL_SIGHT_DESCRIPTION": "元素視覚が移動中も維持されます\n無効にするには、一旦オフにしてから再び元素視覚を使ってください",
 
+    "FAST_COMBINE_TITLE": "Fast Combine",
+    "FAST_COMBINE_DESCRIPTION": "Allows you to quickly create an item.",
+    "FAST_COMBINE_RESIN_TITLE": "Condensed Resin",
+    "FAST_COMBINE_WAYPOINT_TITLE": "Portable Waypoint",
+    "CUSTOM_COMBINE_TITLE": "Custom Combine",
+    "COMBINE_ITEM_TITLE": "Item",
+    "COMBINE_ID_TITLE": "ID",
+    "LIST_COMBINES_ID_TITLE": "List of Combines id",
+    "COMBINE_COUNT_TITLE": "Count",
+    "COMBINE_TITLE": "Combine",
+
     "ESP_DESCRIPTION": "障害物をスルーして絞り込んだ対象を表示する",
     "ESP_OVERLAY_SETTINGS_TITLE": "オーバーレイ設定",
     "ESP_DRAW_BOX_TITLE": "ボックス描画",
@@ -2047,6 +2125,8 @@
     "DISTANCE_TITLE": "距離",
     "COLLIDER_TITLE": "コライダー",
     "PATH": "パス",
-    "HOTKEY": "ホットキー"
+    "HOTKEY": "ホットキー",
+    "HOTKEY_UNBOUND": "アンバウンド",
+    "HOTKEY_RESET": "リセット"
   }
 }
