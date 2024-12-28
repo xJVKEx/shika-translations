@@ -18,6 +18,12 @@
 
     "GOD_MODE_TITLE": "God Mode",
     "GOD_MODE_DESCRIPTION": "Makes player invincible to all types of a damage.",
+    "NO_ATTACK_DAMAGE_TITLE": "No Attack Damage",
+    "NO_ATTACK_DAMAGE_DESCRIPTION": "Allows you to take no damage from attacks.",
+    "NO_FALL_DAMAGE_TITLE": "No Fall Damage",
+    "NO_FALL_DAMAGE_DESCRIPTION": "Allows you to take no fall damage.",
+    "NO_MODIFIER_DAMAGE_TITLE": "No Modifier Damage",
+    "NO_MODIFIER_DAMAGE_DESCRIPTION": "Allows you to not take damage from various modifications (for example: Electric Water, Hot Water, Liquid Phlogiston, etc.).",
 
     "INFINITE_ENERGY_TITLE": "Infinite Energy",
     "INFINITE_ENERGY_DESCRIPTION": "Removes energy requirement for elemental bursts.\n(Elemental burst icons may appear incomplete, but they are still usable.)",
@@ -549,6 +555,12 @@
 
     "GOD_MODE_TITLE": "Неуязвимость",
     "GOD_MODE_DESCRIPTION": "Включает режим бога, т.е. отключает весь урон по персонажу, в том числе и от окружающей среды.",
+    "NO_ATTACK_DAMAGE_TITLE": "No Attack Damage",
+    "NO_ATTACK_DAMAGE_DESCRIPTION": "Allows you to take no damage from attacks.",
+    "NO_FALL_DAMAGE_TITLE": "No Fall Damage",
+    "NO_FALL_DAMAGE_DESCRIPTION": "Allows you to take no fall damage.",
+    "NO_MODIFIER_DAMAGE_TITLE": "No Modifier Damage",
+    "NO_MODIFIER_DAMAGE_DESCRIPTION": "Allows you to not take damage from various modifications (for example: Electric Water, Hot Water, Liquid Phlogiston, etc.).",
 
     "INFINITE_ENERGY_TITLE": "Бесконечная энергия",
     "INFINITE_ENERGY_DESCRIPTION": "Убирает необходимость в энергии для взрывов стихий.\n(Энергетический шар может казаться незавершенным но его по прежнему можно использовать)",
@@ -1080,6 +1092,12 @@
 
     "GOD_MODE_TITLE": "上帝模式",
     "GOD_MODE_DESCRIPTION": "启用上帝模式,无视传入伤害,包括环境伤害.",
+    "NO_ATTACK_DAMAGE_TITLE": "No Attack Damage",
+    "NO_ATTACK_DAMAGE_DESCRIPTION": "Allows you to take no damage from attacks.",
+    "NO_FALL_DAMAGE_TITLE": "No Fall Damage",
+    "NO_FALL_DAMAGE_DESCRIPTION": "Allows you to take no fall damage.",
+    "NO_MODIFIER_DAMAGE_TITLE": "No Modifier Damage",
+    "NO_MODIFIER_DAMAGE_DESCRIPTION": "Allows you to not take damage from various modifications (for example: Electric Water, Hot Water, Liquid Phlogiston, etc.).",
 
     "INFINITE_ENERGY_TITLE": "无限能量",
     "INFINITE_ENERGY_DESCRIPTION": "消除元素爆发所需的能量.\n(能量泡可能看起来不完整但仍然可以使用).",
@@ -1612,6 +1630,12 @@
 
     "GOD_MODE_TITLE": "無敵モード",
     "GOD_MODE_DESCRIPTION": "環境ダメージを含むいかなるダメージを受けなくなります",
+    "NO_ATTACK_DAMAGE_TITLE": "No Attack Damage",
+    "NO_ATTACK_DAMAGE_DESCRIPTION": "Allows you to take no damage from attacks.",
+    "NO_FALL_DAMAGE_TITLE": "No Fall Damage",
+    "NO_FALL_DAMAGE_DESCRIPTION": "Allows you to take no fall damage.",
+    "NO_MODIFIER_DAMAGE_TITLE": "No Modifier Damage",
+    "NO_MODIFIER_DAMAGE_DESCRIPTION": "Allows you to not take damage from various modifications (for example: Electric Water, Hot Water, Liquid Phlogiston, etc.).",
 
     "INFINITE_ENERGY_TITLE": "元素爆発即チャージ",
     "INFINITE_ENERGY_DESCRIPTION": "元素爆発に必要なエネルギーを削除します（元素ゲージは不足しているように見えるかもしれませんが、使用可能です）",
