@@ -522,6 +522,7 @@
     "OPEN_TEAM_IMMEDIATELY_TITLE": "Open Team Immediately",
     "OPEN_TEAM_IMMEDIATELY_DESCRIPTION": "Opens the team menu immediately without waiting for the count down.",
 
+    "ENABLED_TITLE": "Enabled",
     "CONFIG_TITLE": "Config",
     "FONT_SIZE_TITLE": "Font Size",
     "COLORS_TITLE": "Colors",
@@ -1060,6 +1061,7 @@
     "OPEN_TEAM_IMMEDIATELY_TITLE": "Моментальное открытие меню отряда",
     "OPEN_TEAM_IMMEDIATELY_DESCRIPTION": "Открывает меню отряда без заддержки.",
 
+    "ENABLED_TITLE": "Enabled",
     "CONFIG_TITLE": "Настройки",
     "FONT_SIZE_TITLE": "Размер шрифта",
     "COLORS_TITLE": "Цвета",
@@ -1068,6 +1070,7 @@
     "RANGE_TITLE": "Дальность",
     "DISTANCE_TITLE": "Дистанция",
     "COLLIDER_TITLE": "Коллайдер",
+
     "PATH": "Путь",
     "HOTKEY": "Горячая клавиша",
     "HOTKEY_UNBOUND": "Не назначено",
@@ -1598,6 +1601,7 @@
     "OPEN_TEAM_IMMEDIATELY_TITLE": "立即打开队伍界面",
     "OPEN_TEAM_IMMEDIATELY_DESCRIPTION": "立即打开队伍界面,不需要等待读条.",
 
+    "ENABLED_TITLE": "Enabled",
     "CONFIG_TITLE": "配置",
     "FONT_SIZE_TITLE": "字体大小 ",
     "COLORS_TITLE": "颜色",
@@ -1606,6 +1610,7 @@
     "RANGE_TITLE": "范围",
     "DISTANCE_TITLE": "距离",
     "COLLIDER_TITLE": "对撞机",
+
     "PATH": "路径",
     "HOTKEY": "热键",
     "HOTKEY_UNBOUND": "无界",
@@ -2140,6 +2145,7 @@
     "OPEN_TEAM_IMMEDIATELY_TITLE": "すぐにオープンチーム",
     "OPEN_TEAM_IMMEDIATELY_DESCRIPTION": "カウントダウンを待たずに即座にチームをオープン.",
 
+    "ENABLED_TITLE": "Enabled",
     "CONFIG_TITLE": "コンフィグ",
     "FONT_SIZE_TITLE": "フォントサイズ",
     "COLORS_TITLE": "色",
@@ -2148,6 +2154,7 @@
     "RANGE_TITLE": "範囲",
     "DISTANCE_TITLE": "距離",
     "COLLIDER_TITLE": "コライダー",
+
     "PATH": "パス",
     "HOTKEY": "ホットキー",
     "HOTKEY_UNBOUND": "アンバウンド",
