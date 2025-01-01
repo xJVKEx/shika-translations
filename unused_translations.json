@@ -21,27 +21,12 @@
     "GAMMA_DESCRIPTION": "Changes game brightness/gamma.",
     "DRS_DESCRIPTION": "Changes game render scaling.\nChanging this value quickly or setting high values may cause video memory leak and crash your game, so be careful when changing it.",
 
-    "MODULE_TELEPORT": "Teleport",
-
-    "MAP_TELEPORT_TITLE": "Map Teleport",
-
     "FOV_DESCRIPTION": "Set a field of view value.",
 
     "SKIN_MODIFIER_TITLE": "Skin Modifier",
     "SKIN_MODIFIER_DESCRIPTION": "Skin Modifier",
     "SKINS_TITLE": "Skins",
     "SELECT_TITLE": "Select",
-
-    "MUSIC_EVENT_TITLE": "Music Event",
-    "MUSIC_EVENT_DESCRIPTION": "It is intended only for a music event.",
-    "MUSIC_EVENT_NO_MISS_TITLE": "No Miss",
-    "MUSIC_EVENT_HIT_TITLE": "Hit",
-    "MUSIC_EVENT_COMBO_TITLE": "Combo",
-    "MUSIC_EVENT_MAX_COMBO_TITLE": "Max Combo",
-    "MUSIC_EVENT_SCORE_TITLE": "Score",
-    "MUSIC_EVENT_PERFECT_TITLE": "Perfect",
-    "MUSIC_EVENT_GREAT_TITLE": "Great",
-    "MUSIC_EVENT_MISS_TITLE": "Miss"
   },
   "RU": {
     "BROWSER_TITLE": "Браузер",
@@ -58,17 +43,6 @@
     "RESOLUTION_HEIGHT_DESCRIPTION": "Измените высоту разрешения браузера.",
 
     "FOV_DESCRIPTION": "Установите значение поля зрения.",
-
-    "MUSIC_EVENT_TITLE": "Music Event",
-    "MUSIC_EVENT_DESCRIPTION": "It is intended only for a music event.",
-    "MUSIC_EVENT_NO_MISS_TITLE": "No Miss",
-    "MUSIC_EVENT_HIT_TITLE": "Hit",
-    "MUSIC_EVENT_COMBO_TITLE": "Combo",
-    "MUSIC_EVENT_MAX_COMBO_TITLE": "Max Combo",
-    "MUSIC_EVENT_SCORE_TITLE": "Score",
-    "MUSIC_EVENT_PERFECT_TITLE": "Perfect",
-    "MUSIC_EVENT_GREAT_TITLE": "Great",
-    "MUSIC_EVENT_MISS_TITLE": "Miss"
   },
   "CN": {
     "BROWSER_TITLE": "浏览器",
@@ -85,17 +59,6 @@
     "RESOLUTION_HEIGHT_DESCRIPTION": "更改分辨率高度.",
 
     "FOV_DESCRIPTION": "设置视野值.",
-
-    "MUSIC_EVENT_TITLE": "音乐活动",
-    "MUSIC_EVENT_DESCRIPTION": "它仅适用于音乐活动.",
-    "MUSIC_EVENT_NO_MISS_TITLE": "无节拍",
-    "MUSIC_EVENT_HIT_TITLE": "点击",
-    "MUSIC_EVENT_COMBO_TITLE": "组合",
-    "MUSIC_EVENT_MAX_COMBO_TITLE": "最大组合",
-    "MUSIC_EVENT_SCORE_TITLE": "得分",
-    "MUSIC_EVENT_PERFECT_TITLE": "完美",
-    "MUSIC_EVENT_GREAT_TITLE": "非常好",
-    "MUSIC_EVENT_MISS_TITLE": "节拍"
   },
   "JP": {
     "BROWSER_TITLE": "ブラウザ",
@@ -112,16 +75,5 @@
     "RESOLUTION_HEIGHT_DESCRIPTION": "ブラウザの解像度の高さを変更する",
 
     "FOV_DESCRIPTION": "視野角の値を設定する",
-
-    "MUSIC_EVENT_TITLE": "Music Event",
-    "MUSIC_EVENT_DESCRIPTION": "It is intended only for a music event.",
-    "MUSIC_EVENT_NO_MISS_TITLE": "No Miss",
-    "MUSIC_EVENT_HIT_TITLE": "Hit",
-    "MUSIC_EVENT_COMBO_TITLE": "Combo",
-    "MUSIC_EVENT_MAX_COMBO_TITLE": "Max Combo",
-    "MUSIC_EVENT_SCORE_TITLE": "Score",
-    "MUSIC_EVENT_PERFECT_TITLE": "Perfect",
-    "MUSIC_EVENT_GREAT_TITLE": "Great",
-    "MUSIC_EVENT_MISS_TITLE": "Miss"
   }
 }
