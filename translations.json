@@ -13,6 +13,7 @@
     "OPEN_IN_BROWSER": "Open in the browser",
 
     "EXECUTE_TITLE": "Execute",
+    "LUA_EXAMPLES_TITLE": "Lua Examples",
 
     "MODULE_PLAYER": "Player",
 
@@ -82,8 +83,6 @@
     "LANGUAGE_CURRENT": "Selected Language",
     "SETTINGS_GENERAL": "General",
     "MENU_HOTKEY_TITLE": "Toggle Menu",
-    "CONSOLE_HOTKEY_TITLE": "Toggle Console",
-    "CONSOLE_HOTKEY_DESCRIPTION": "Shows/Hides the console log window.",
     "INJECT_AFTER_LOGIN_TITLE": "Inject After Login",
     "INJECT_AFTER_LOGIN_DESCRIPTION": "The injection will only be executed after the first login to the game world.\n(Changes will take effect after a relaunch.)",
     "PROTECTION_TITLE": "Disable Protection",
@@ -328,6 +327,7 @@
 
     "SKIP_CUTSCENE_TITLE": "Skip Cutscene",
     "SKIP_CUTSCENE_DESCRIPTION": "Skips the cutscenes.\nMay break some game mechanics.",
+    "SKIP_CUTSCENE_HOTKEY_MODE_DESCRIPTION": "Skips cutscenes while holding the hotkey.",
 
     "DUMB_ENEMIES_TITLE": "Dumb Enemies",
     "DUMB_ENEMIES_DESCRIPTION": "Enemies won't attack or use their abilities against the player.\nMay not work with some enemies or enemy abilities.",
@@ -555,7 +555,7 @@
     "GAME_SPEED_TITLE": "Game Speed",
     "GAME_SPEED_DESCRIPTION": "Allows to customize speed of the game.",
     "HOTKEY_MODE_TITLE": "Hotkey Mode",
-    "HOTKEY_MODE_DESCRIPTION": "Changes the game speed to a set value while holding the hotkey.",
+    "GAME_SPEED_HOTKEY_MODE_DESCRIPTION": "Changes the game speed to a set value while holding the hotkey.",
     "MULTIPLIER_TITLE": "Multiplier",
     "MULTIPLIER_DESCRIPTION": "Set the game speed multiplier.",
 
@@ -651,6 +651,7 @@
     "OPEN_IN_BROWSER": "Открыть в браузере",
 
     "EXECUTE_TITLE": "Запустить",
+    "LUA_EXAMPLES_TITLE": "Примеры Lua",
 
     "MODULE_PLAYER": "Игрок",
 
@@ -720,10 +721,8 @@
     "LANGUAGE_CURRENT": "Выберите язык",
     "SETTINGS_GENERAL": "Общие",
     "MENU_HOTKEY_TITLE": "Показать меню",
-    "CONSOLE_HOTKEY_TITLE": "Показать консоль",
-    "CONSOLE_HOTKEY_DESCRIPTION": "Показать/Скрыть окно с логами консоли.",
-    "INJECT_AFTER_LOGIN_TITLE": "Вводить после входа в Систему",
-    "INJECT_AFTER_LOGIN_DESCRIPTION": "Инъекция будет выполнена только после первого входа в игровой мир.\n(Изменения вступят в силу после повторного запуска.)",
+    "INJECT_AFTER_LOGIN_TITLE": "Инъекция после входа",
+    "INJECT_AFTER_LOGIN_DESCRIPTION": "Инъекция будет выполнена только после первого входа в игровой мир.\n(Изменения вступят в силу после перезапуска игры.)",
     "PROTECTION_TITLE": "Отключить защиту",
     "PROTECTION_DESCRIPTION": "Закрывает процесс античита.\n(изменения начнут действовать после перезапуска игры).",
     "ANALYTICS_TITLE": "Отключить логи телеметрии",
@@ -764,7 +763,7 @@
     "DEVELOPER_MODE_TITLE": "Режим разработчика",
     "DEVELOPER_MODE_DESCRIPTION": "Если вы не разработчик, вам не следует включать этот режим.\nНикто не поможет вам освоить эти функции.\nРежим разблокирует некоторые категории и функции.",
 
-    "MODULE_TELEPORT": "Телепортации",
+    "MODULE_TELEPORT": "Телепорт",
 
     "MAP_TELEPORT_TITLE": "Телепортации по карте",
     "MAP_TELEPORT_DESCRIPTION": "Включить функцию телепортации по карте.\nИспользование:\n1. Открыть карту.\n2. зажать [Клавишу телепорта] и щелкните ЛКМ в любом месте карты.\nСделано. Вы были телепортированы в выбранное место.\nТелепорт может дать сбой при телепортации на очень большую высоту.\nОтрегулируйте высоту установки соответствующим образом, чтобы избежать ошибок.",
@@ -907,7 +906,7 @@
     "AUTO_DESTROY_ORES_TITLE": "Руды",
     "AUTO_DESTROY_ORES_DESCRIPTION": "Руды и варианты, например, электро кристаллы, marrows, и т.д.",
     "AUTO_DESTROY_SHIELDS_TITLE": "Щиты",
-    "AUTO_DESTROY_SHIELDS_DESCRIPTION": "Щиты магов бездны, митачурлов илслаймов.",
+    "AUTO_DESTROY_SHIELDS_DESCRIPTION": "Щиты магов бездны, митачурлов или гео слаймов.",
     "AUTO_DESTROY_DOODADS_TITLE": "Безделушки",
     "AUTO_DESTROY_DOODADS_DESCRIPTION": "Бочки, коробки, вазы, и т.д.",
     "AUTO_DESTROY_PLANTS_TITLE": "Растения",
@@ -967,6 +966,7 @@
 
     "SKIP_CUTSCENE_TITLE": "Пропуск катсцен",
     "SKIP_CUTSCENE_DESCRIPTION": "Пропускает катсцены.\nМожет сломать некоторые механики игры.",
+    "SKIP_CUTSCENE_HOTKEY_MODE_DESCRIPTION": "Skips cutscenes while holding the hotkey.",
 
     "DUMB_ENEMIES_TITLE": "Глупые враги",
     "DUMB_ENEMIES_DESCRIPTION": "Враги не атакуют или не используют их способности против персонажа.\nМожет не работать с некоторыми врагами или их способностями.",
@@ -1194,7 +1194,7 @@
     "GAME_SPEED_TITLE": "Скорость игры",
     "GAME_SPEED_DESCRIPTION": "Ускоряет игру.",
     "HOTKEY_MODE_TITLE": "Режим горячей клавиши",
-    "HOTKEY_MODE_DESCRIPTION": "Ускоряет игру при зажатии горячей клавиши.",
+    "GAME_SPEED_HOTKEY_MODE_DESCRIPTION": "Ускоряет игру при зажатии горячей клавиши.",
     "MULTIPLIER_TITLE": "Множитель",
     "MULTIPLIER_DESCRIPTION": "Установить множитель скорости игры.",
 
@@ -1290,6 +1290,7 @@
     "OPEN_IN_BROWSER": "在浏览器中打开",
 
     "EXECUTE_TITLE": "执行",
+    "LUA_EXAMPLES_TITLE": "Lua Examples",
 
     "MODULE_PLAYER": "玩家",
 
@@ -1359,8 +1360,6 @@
     "LANGUAGE_CURRENT": "选择你的语言",
     "SETTINGS_GENERAL": "基础",
     "MENU_HOTKEY_TITLE": "显示 菜单",
-    "CONSOLE_HOTKEY_TITLE": "显示 控制台",
-    "CONSOLE_HOTKEY_DESCRIPTION": "显示/隐藏 控制台日志窗口.",
     "INJECT_AFTER_LOGIN_TITLE": "进门后注入",
     "INJECT_AFTER_LOGIN_DESCRIPTION": "仅在首次登录进入游戏世界后才会执行注入.\n(更改将在重新启动后生效.)",
     "PROTECTION_TITLE": "禁用保护",
@@ -1606,6 +1605,7 @@
 
     "SKIP_CUTSCENE_TITLE": "跳过过场动画",
     "SKIP_CUTSCENE_DESCRIPTION": "跳过过场动画.可能会破坏一些游戏机制.",
+    "SKIP_CUTSCENE_HOTKEY_MODE_DESCRIPTION": "Skips cutscenes while holding the hotkey.",
 
     "DUMB_ENEMIES_TITLE": "愚蠢敌人",
     "DUMB_ENEMIES_DESCRIPTION": "敌人不会攻击玩家或对玩家使用技能.\n可能不适用于某些敌人或敌人的技能.",
@@ -1833,7 +1833,7 @@
     "GAME_SPEED_TITLE": "游戏速度",
     "GAME_SPEED_DESCRIPTION": "加快游戏速度.",
     "HOTKEY_MODE_TITLE": "热键模式",
-    "HOTKEY_MODE_DESCRIPTION": "按住热键加快游戏速度.",
+    "GAME_SPEED_HOTKEY_MODE_DESCRIPTION": "按住热键加快游戏速度.",
     "MULTIPLIER_TITLE": "倍数",
     "MULTIPLIER_DESCRIPTION": "设置游戏速度倍数.",
 
@@ -1930,6 +1930,7 @@
     "OPEN_IN_BROWSER": "ブラウザで開く",
 
     "EXECUTE_TITLE": "実行",
+    "LUA_EXAMPLES_TITLE": "Lua Examples",
 
     "MODULE_PLAYER": "プレイヤー",
 
@@ -1999,8 +2000,6 @@
     "LANGUAGE_CURRENT": "言語を選択してください",
     "SETTINGS_GENERAL": "一般",
     "MENU_HOTKEY_TITLE": "メニューを表示",
-    "CONSOLE_HOTKEY_TITLE": "コンソールを表示",
-    "CONSOLE_HOTKEY_DESCRIPTION": "コンソールログウィンドウの表示/非表示",
     "INJECT_AFTER_LOGIN_TITLE": "Inject After Login",
     "INJECT_AFTER_LOGIN_DESCRIPTION": "The injection will only be executed after the first login to the game world.\n(Changes will take effect after a relaunch.)",
     "PROTECTION_TITLE": "プロテクション無効化",
@@ -2251,6 +2250,7 @@
 
     "SKIP_CUTSCENE_TITLE": "カットシーンスキップ",
     "SKIP_CUTSCENE_DESCRIPTION": "カットシーンをスキップする\nいくつかのゲームシステムを壊す可能性があります",
+    "SKIP_CUTSCENE_HOTKEY_MODE_DESCRIPTION": "Skips cutscenes while holding the hotkey.",
 
     "DUMB_ENEMIES_TITLE": "敵の攻撃停止",
     "DUMB_ENEMIES_DESCRIPTION": "敵はプレイヤーに対して攻撃をしたり、能力を使わなくなります\n一部の敵や能力には動作しない場合があります",
@@ -2478,7 +2478,7 @@
     "GAME_SPEED_TITLE": "ゲーム内速度",
     "GAME_SPEED_DESCRIPTION": "ゲーム内速度を上昇させる",
     "HOTKEY_MODE_TITLE": "ホットキー",
-    "HOTKEY_MODE_DESCRIPTION": "ホットキーを押している間、ゲームの速度を上げます",
+    "GAME_SPEED_HOTKEY_MODE_DESCRIPTION": "ホットキーを押している間、ゲームの速度を上げます",
     "MULTIPLIER_TITLE": "倍率",
     "MULTIPLIER_DESCRIPTION": "ゲーム速度の倍率を設定する",
 
